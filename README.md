@@ -19,6 +19,7 @@ I'm a **web developer** in the making with a passion for creating clean, functio
 
 ## 📫 How to reach me:
 - [LinkedIn](https://linkedin.com/in/gulcan-kamat)
+- [Kaggle](https://www.kaggle.com/glcankamat)
 - Email: gulcankamat@gmail.com
 
 ## 😄 Pronouns:
