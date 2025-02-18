@@ -21,6 +21,7 @@ I'm a **web developer** in the making with a passion for creating clean, functio
 - [LinkedIn](https://linkedin.com/in/gulcan-kamat)
 - [Kaggle](https://www.kaggle.com/glcankamat)
 - Email: gulcankamat@gmail.com
+- Notion-Portfolio: (https://young-toucan-fac.notion.site/G-lcan-Kamat-Cloud-DevOps-Engineer-Portfolio-19efce64d33680539199e8a6321c6161?pvs=4)
 
 ## 😄 Pronouns:
 - She/Her
